@@ -1,0 +1,9 @@
+song = {
+	name = "crusaderkings2_maintitle.ogg"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
